@@ -1,0 +1,43 @@
+{
+  "name": "fryzjer",
+  "version": "1.0.0",
+  "description": "App to zarzadzac fryzjerem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "^10.13.0",
+    "npm": "6.4.1"
+  },
+  "keywords": [
+    "manage",
+    "hair",
+    "fryzjer"
+  ],
+  "author": "Pawel",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "config": "^3.0.0",
+    "event-stream": "^4.0.1",
+    "express": "^4.16.4",
+    "express-async-errors": "^3.1.1",
+    "helmet": "^3.15.1",
+    "joi": "^14.1.0",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.3.13",
+    "mongoose-dateonly": "^1.0.6",
+    "nodemon": "^1.18.10",
+    "update": "^0.7.4",
+    "valid-objectid": "0.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}

@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "hairdresser_jwtPrivateKey",
+    "db": "hairdresser_db"
+}
