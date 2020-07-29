@@ -4,8 +4,6 @@
 
 - [General info](#general-info)
 - [Technologies](#tenchnologies)
-- [Setup](#setup)
-- [Screenshot](#screenshot)
 
 ## General info
 Rest API for booking system written in Node.js
@@ -18,12 +16,3 @@ Project is created with:
 - Node.js 
 - Express.js
 - MongoDB
-
-## Setup
-
-To run this project, install it locally using npm or yarn:
-
-```
-$ npm install / yarn
-$ npm start dev / yarn dev
-```
