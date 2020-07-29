@@ -15,4 +15,4 @@ Project is created with:
 - JavaScript
 - Node.js 
 - Express.js
-- MongoDB
+- MongoDB, Mongoose
